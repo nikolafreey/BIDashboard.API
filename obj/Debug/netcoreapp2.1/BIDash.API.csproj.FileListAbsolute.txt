@@ -1,0 +1,15 @@
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\bin\Debug\netcoreapp2.1\BIDash.API.deps.json
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\bin\Debug\netcoreapp2.1\BIDash.API.runtimeconfig.json
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\bin\Debug\netcoreapp2.1\BIDash.API.runtimeconfig.dev.json
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\bin\Debug\netcoreapp2.1\BIDash.API.dll
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\bin\Debug\netcoreapp2.1\BIDash.API.pdb
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.csprojAssemblyReference.cache
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.RazorAssemblyInfo.cache
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.RazorAssemblyInfo.cs
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.AssemblyInfoInputs.cache
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.AssemblyInfo.cs
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.RazorTargetAssemblyInfo.cache
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.dll
+C:\Users\Nikola\Source\Repos\BusinessInteligenceDashboard\BIDash.API\obj\Debug\netcoreapp2.1\BIDash.API.pdb
