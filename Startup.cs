@@ -53,7 +53,9 @@ namespace BIDash.API
             seed.SeedData(20,1000);
 
             app.UseHttpsRedirection();
-            app.UseMvc();
+            app.UseMvc(routes => routes.MapRoute(
+                "default", "api/{controller}/{action}/{id?}"
+            ));
         }
     }
 }
